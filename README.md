@@ -1,4 +1,4 @@
-My Portfolio -https://ashishmanoj.me
+
 
 Hi, I'm Ashish T. 👋 AI & Data Science Student | ML | Generative AI | Cloud | Data Visualization I’m passionate about building the future of technology with Machine Learning, Generative AI, and Cloud Computing. I simplify complex problems and turn ideas into real-world outcomes.
 
@@ -12,6 +12,6 @@ Hi, I'm Ashish T. 👋 AI & Data Science Student | ML | Generative AI | Cloud | 
 
 💼 Experience AWS AI-ML Virtual Internship (AICTE, May–July 2023) Amazon ML Summer School (Summer 2023)
 
-📫 Contact I’m open to collaborations, opportunities, and conversations. Email: ashishmanoj21@email.com LinkedIn: linkedin.com/in/ashishthirunahari1198 GitHub: github.com/ashish2784
+📫 Contact I’m open to collaborations, opportunities, and conversations. 
 
 📄 Resume View My Resume ⚡ Fun Facts Enjoys reading AI research papers Loves music and movies Curious about emerging tech trends
